@@ -14,3 +14,5 @@ print(housing)
 pd.DataFrame(housing.data, columns=housing.feature_names)
 data['Price']=housing.target
 data.head(10)
+
+
